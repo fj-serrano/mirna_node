@@ -1,6 +1,6 @@
 # miRNA node (Python)
 
-This script relates the differentially expressed miRNAs in the studied datasets to their biological nodes. To do so, it generates a list of all differentially expressed miRNAs identified in each study, along with other relevant information associated with each of them. It then incorporates, when available, the nomenclature equivalences of each mature miRNA across the different databases and it also adds information about the evolutionary node to which each miRNA belongs. Additionally, it generates a table with the differentially expressed miRNAs that have been detected with MirGeneDB, but not in the other databases.
+This script relates the differentially expressed miRNAs in the studied datasets to their biological nodes. To do so, it generates a list of all differentially expressed miRNAs identified in each study, along with other relevant information associated with each of them. It then incorporates, when available, the nomenclature equivalences of each mature miRNA across the different databases and it also adds information about the evolutionary node to which each miRNA belongs. Additionally, it generates a table with the differentially expressed miRNAs that have been detected with MirGeneDB, but not with the other databases.
 
 ---
 
